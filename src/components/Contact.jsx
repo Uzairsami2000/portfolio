@@ -31,7 +31,7 @@ function Contact() {
 
           <div className="space-y-6">
 
-            <div className="flex items-center gap-5 rounded-xl bg-white dark:bg-white shadow-lg dark:bg-slate-900 p-6">
+            <div className="flex items-center gap-5 rounded-xl bg-dark dark:bg-dark shadow-lg dark:bg-slate-900 p-6">
   <FaEnvelope className="text-3xl text-[#F7B63F]" />
 
   <div>
@@ -39,7 +39,7 @@ function Contact() {
 
     <a
       href="mailto:uzairsami2000@gmail.com"
-      className="text-slate-600 dark:text-slate-600 dark:text-slate-300 transition hover:text-[#F7B63F]"
+      className="text-slate-600 white:text-slate-600 white:text-slate-300 transition hover:text-[#F7B63F]"
     >
       uzairsami2000@gmail.com
     </a>
